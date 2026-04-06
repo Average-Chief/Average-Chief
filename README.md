@@ -1,93 +1,23 @@
+# Achal · aka Loki
 
-# 👋 Hey, I'm Achal (aka Loki)
+Backend Developer · AI Builder · Real-World Problem Solver
 
-🚀 Backend Developer | AI Builder | Real-World Problem Solver
+> I build systems that actually do something useful — from real-time disaster alerts to AI-powered scrapers. I like hard problems and shipping things that matter.
 
-I don’t just write code — I build systems that *actually do something useful*.
-From real-time disaster alert systems to AI-powered scrapers, I like solving problems that matter.
+## What I'm building
 
----
+- **[PriceGhost](https://priceghost.site)** — Monitors competitor pricing pages and alerts you the instant something changes. API-first, $0 to start. *(Waitlist open)*
+- **FloodNet** — IoT + cloud system for real-time flood alerts with GSM redundancy
+- **RBAC 2.0** — Server-driven access control for physical + digital systems
+- **AI Scraper** — Smart web extraction + structured parsing with LLMs
 
-## ⚡ What I'm Working On
+## Stack
 
-* 🧠 **RBAC 2.0 (Real Permission System)**
-  Server-driven access control for both physical + digital systems
-* 🌊 **FloodNet**
-  IoT + backend system for real-time flood alerts with GSM + cloud redundancy
-* 🕸️ **AI Web Data Extraction Tool**
-  Smart scraping + structured parsing using LLMs
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Jinja](https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
----
+## Learning
 
-## 🧠 Tech Stack (aka my weapons)
+Advanced system design · Distributed systems · Scaling backends
 
-### 🖥️ Backend & Core
-
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge\&logo=python\&logoColor=ffdd54)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge\&logo=fastapi)
-![Flask](https://img.shields.io/badge/flask-%23000?style=for-the-badge\&logo=flask\&logoColor=white)
-
-### 🗄️ Databases
-
-![Postgres](https://img.shields.io/badge/postgres-%23316192?style=for-the-badge\&logo=postgresql)
-![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge\&logo=mysql)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b?style=for-the-badge\&logo=mongodb)
-![Redis](https://img.shields.io/badge/redis-%23DD0031?style=for-the-badge\&logo=redis)
-
-### ☁️ Deployment
-
-![Vercel](https://img.shields.io/badge/vercel-%23000000?style=for-the-badge\&logo=vercel)
-![Render](https://img.shields.io/badge/Render-%46E3B7?style=for-the-badge\&logo=render)
-![Heroku](https://img.shields.io/badge/heroku-%23430098?style=for-the-badge\&logo=heroku)
-
-### 🧰 Others
-
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge\&logo=supabase)
-![Pandas](https://img.shields.io/badge/pandas-%23150458?style=for-the-badge\&logo=pandas)
-![NumPy](https://img.shields.io/badge/numpy-%23013243?style=for-the-badge\&logo=numpy)
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Average-Chief&theme=tokyonight&hide_border=true" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Average-Chief&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Average-Chief&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🧠 Currently Learning
-
-* Advanced System Design
-* Distributed Systems & Caching
-* Scaling backend architectures
-
----
-
-## 🎯 Goals
-
-* Build a **$10k/month tech agency**
-* Create products that solve real-world problems
-* Get into a **top global tech ecosystem**
-
----
-
-## ⚡ Fun Fact
-
-I once built a system that could send real-time alerts during floods…
-Meanwhile I still forget to drink water 💀
-
----
-
-## 📬 Let's Connect
-
-* 💼 LinkedIn: (add this bro don’t be lazy)
-* 🧑‍💻 Portfolio: (make one… seriously)
-
----
-
-🔥 *If you're building something cool or chaotic, I’m in.*
-
+Built a flood alert system. Still forgets to drink water.
+Building toward a $10k/month tech agency — products that solve real problems.
