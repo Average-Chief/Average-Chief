@@ -2,7 +2,7 @@
 
 Backend Developer · AI Builder · Real-World Problem Solver
 
-> I build systems that actually do something useful — from real-time disaster alerts to AI-powered scrapers. I like hard problems and shipping things that matter.
+> I build systems that actually do something useful from real-time disaster alerts to AI-powered scrapers. I like hard problems and shipping things that matter.
 
 ## What I'm building
 
@@ -21,4 +21,4 @@ Backend Developer · AI Builder · Real-World Problem Solver
 Advanced system design · Distributed systems · Scaling backends
 
 Built a flood alert system. Still forgets to drink water.
-Building toward a $10k/month tech agency — products that solve real problems.
+Building toward a $10k/month tech agency products that solve real problems.
