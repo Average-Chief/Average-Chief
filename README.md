@@ -6,6 +6,7 @@ Backend Developer · AI Builder · Real-World Problem Solver
 
 ## What I'm building
 
+- **CoachOS** — Automation and Management system for the Coaching Centres as a White Label SaaS
 - **[PriceGhost](https://priceghost.site)** — Monitors competitor pricing pages and alerts you the instant something changes. API-first, $0 to start. *(Waitlist open)*
 - **FloodNet** — IoT + cloud system for real-time flood alerts with GSM redundancy
 - **RBAC 2.0** — Server-driven access control for physical + digital systems
